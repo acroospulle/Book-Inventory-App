@@ -33,6 +33,19 @@ The table is color-coded by reading status (_Read_, _In Progress_, and _To Read_
 
 
 
+
+## Features
+
+- Table-based book inventory layout
+- Row backgrounds color-coded by reading status
+- Visual 3-dot rating system using gradients
+- Semantic HTML and accessible markup
+
+---
+
+
+
+
 ## Tech Used
 
 - HTML5
